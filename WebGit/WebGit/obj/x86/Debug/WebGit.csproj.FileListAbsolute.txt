@@ -1,0 +1,16 @@
+C:\Users\max\AppData\Local\Temporary Projects\WebGit\bin\Debug\WebGit.exe
+C:\Users\max\AppData\Local\Temporary Projects\WebGit\bin\Debug\WebGit.pdb
+C:\Users\max\AppData\Local\Temporary Projects\WebGit\bin\Debug\LibGit2Sharp.dll
+C:\Users\max\AppData\Local\Temporary Projects\WebGit\bin\Debug\LibGit2Sharp.pdb
+C:\Users\max\AppData\Local\Temporary Projects\WebGit\bin\Debug\LibGit2Sharp.xml
+C:\Users\max\AppData\Local\Temporary Projects\WebGit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\max\AppData\Local\Temporary Projects\WebGit\obj\x86\Debug\WebGit.exe
+C:\Users\max\AppData\Local\Temporary Projects\WebGit\obj\x86\Debug\WebGit.pdb
+D:\repo\test\GitWebClient\WebGit\WebGit\obj\x86\Debug\WebGit.exe
+D:\repo\test\GitWebClient\WebGit\WebGit\obj\x86\Debug\WebGit.pdb
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Debug\WebGit.exe
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Debug\WebGit.pdb
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Debug\LibGit2Sharp.dll
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Debug\LibGit2Sharp.pdb
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Debug\LibGit2Sharp.xml
+D:\repo\test\GitWebClient\WebGit\WebGit\obj\x86\Debug\ResolveAssemblyReference.cache

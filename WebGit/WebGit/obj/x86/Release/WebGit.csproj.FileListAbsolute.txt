@@ -1,0 +1,8 @@
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Release\WebGit.exe
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Release\WebGit.pdb
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Release\LibGit2Sharp.dll
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Release\LibGit2Sharp.pdb
+D:\repo\test\GitWebClient\WebGit\WebGit\bin\Release\LibGit2Sharp.xml
+D:\repo\test\GitWebClient\WebGit\WebGit\obj\x86\Release\ResolveAssemblyReference.cache
+D:\repo\test\GitWebClient\WebGit\WebGit\obj\x86\Release\WebGit.exe
+D:\repo\test\GitWebClient\WebGit\WebGit\obj\x86\Release\WebGit.pdb
